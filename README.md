@@ -4,6 +4,10 @@
 
 ## Nombrando una variable
 
+```python
+variable = 10
+```
+
 ## Asignando valores a una variable
 
 ## Operadores básicos
